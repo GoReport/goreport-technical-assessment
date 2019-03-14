@@ -57,11 +57,13 @@ cost
  - **Total Costs** should be bold
   - If any total cost is greater than 1000 then the colour should turn red.
 
-**_If there is anything you could not get completed or anything that you would do differently then please put this in the submission email._**
+**_If there is anything you could not get completed or anything that you would do differently then please put this in the description of the `pull request` of in the submission email._**
 
 ## Submission
 
-The preferred method to submit this assessment is to create a `pull request` on `GitHub`.
+The preferred method to submit this assessment is:
+1. Create an **`index.html`** file and then view the source from the webpage and copy this into this **`.html`** file and save this to the working directory with the rest of the assessment files.
+2. Create a `pull request` on `GitHub`.
 
 _If you requested a `zip` file then to submit this assessment please take the following steps:_
 
