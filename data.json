@@ -1,0 +1,523 @@
+{
+  "Heading" : {
+    "Title": "GoReport Technical Assessment",
+    "Value": ""
+  },
+  "SubHeading": {
+    "Title": "Welcome to GoReport",
+    "Value": "Streamlined, rapid data capture includes all the tools you need but now in one simple to use package.<br />\n<br />\n Dictation, photos (complete with annotation to highlight key information), text, customisable phrase library to pick from for quickly entering text without typing, even handwriting recognition that automatically converts to text, so you can continue taking site notes the way you like.<br />\n<br />\nFlexible configuration means you don’t have to change the way you survey.GoReport works the way that suits you best.<br />\n<br />\nWith the touch of finger GoReport SmartPins allows you to link information to a specific location on images, plans + site layouts.<br />\n<br />\n Simply touch the image to drop a ‘SmartPin’, touch it again to reveal the information. Enhance your project with our revolutionary data integration development and give your client the tool to understand their data faster.<br />\n<br />\nIntegrates to Microsoft Word and Excel to unlock your survey data. Using our integration to Power BI, you can gain valuable insights across property portfolios.<br />\n<br />\nCustomisable costing engine allows you to assign variable rates or use standard pricing references such as BCIS.<br />\n<br />\nGoReport is written to be open. You can easily integrate your survey data into external packages such as CAFM or your back-office system."
+  },
+  "rows": [
+    {
+      "Element": {
+        "value": "Roof"
+      },
+      "SubElement": {
+        "value": "Tiles"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "100"
+      }
+    },
+    {
+      "Element": {
+        "value": "Roof"
+      },
+      "SubElement": {
+        "value": "Chimney"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "10"
+      },
+      "UnitCost": {
+        "value": "50"
+      }
+    },
+    {
+      "Element": {
+        "value": "Roof"
+      },
+      "SubElement": {
+        "value": "Roof Slates"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "10"
+      },
+      "UnitCost": {
+        "value": "10"
+      }
+    },
+    {
+      "Element": {
+        "value": "Roof"
+      },
+      "SubElement": {
+        "value": "Flashings"
+      },
+      "RepairType": {
+        "value": "redecorate"
+      },
+      "Qty": {
+        "value": "5"
+      },
+      "UnitCost": {
+        "value": "150"
+      }
+    },
+    {
+      "Element": {
+        "value": "Roof"
+      },
+      "SubElement": {
+        "value": "Concrete Slab"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "1500"
+      }
+    },
+    {
+      "Element": {
+        "value": "Roof"
+      },
+      "SubElement": {
+        "value": "Felt"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "25"
+      },
+      "UnitCost": {
+        "value": "50"
+      }
+    },
+    {
+      "Element": {
+        "value": "Floor"
+      },
+      "SubElement": {
+        "value": "Carpet Tiles"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "100"
+      },
+      "UnitCost": {
+        "value": "17"
+      }
+    },
+    {
+      "Element": {
+        "value": "Floor"
+      },
+      "SubElement": {
+        "value": "Carpet"
+      },
+      "RepairType": {
+        "value": "redecorate"
+      },
+      "Qty": {
+        "value": "50"
+      },
+      "UnitCost": {
+        "value": "24"
+      }
+    },
+    {
+      "Element": {
+        "value": "Floor"
+      },
+      "SubElement": {
+        "value": "Concrete"
+      },
+      "RepairType": {
+        "value": "redecorate"
+      },
+      "Qty": {
+        "value": "80"
+      },
+      "UnitCost": {
+        "value": "80"
+      }
+    },
+    {
+      "Element": {
+        "value": "Ceilings"
+      },
+      "SubElement": {
+        "value": "Plaster Board"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "1000"
+      }
+    },
+    {
+      "Element": {
+        "value": "Ceilings"
+      },
+      "SubElement": {
+        "value": "Lath & Plaster"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "15"
+      },
+      "UnitCost": {
+        "value": "25"
+      }
+    },
+    {
+      "Element": {
+        "value": "Ceilings"
+      },
+      "SubElement": {
+        "value": "Plasterboard & Skim"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "100"
+      },
+      "UnitCost": {
+        "value": "5"
+      }
+    },
+    {
+      "Element": {
+        "value": "Ceilings"
+      },
+      "SubElement": {
+        "value": "Plastered Soffit"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "50"
+      },
+      "UnitCost": {
+        "value": "20"
+      }
+    },
+    {
+      "Element": {
+        "value": "Ceilings"
+      },
+      "SubElement": {
+        "value": "Suspended Grid & Tile"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "150"
+      }
+    },
+    {
+      "Element": {
+        "value": "Ceilings"
+      },
+      "SubElement": {
+        "value": "Textured Finish"
+      },
+      "RepairType": {
+        "value": "redecorate"
+      },
+      "Qty": {
+        "value": "25"
+      },
+      "UnitCost": {
+        "value": "25"
+      }
+    },
+    {
+      "Element": {
+        "value": "Ceilings"
+      },
+      "SubElement": {
+        "value": "Suspended Tiles"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "350"
+      }
+    },
+    {
+      "Element": {
+        "value": "Kitchen Fittings"
+      },
+      "SubElement": {
+        "value": "Taps"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "2"
+      },
+      "UnitCost": {
+        "value": "80"
+      }
+    },
+    {
+      "Element": {
+        "value": "Kitchen Fittings"
+      },
+      "SubElement": {
+        "value": "Sink"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "250"
+      }
+    },
+    {
+      "Element": {
+        "value": "Kitchen Fittings"
+      },
+      "SubElement": {
+        "value": "Base Unit"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "10"
+      },
+      "UnitCost": {
+        "value": "150"
+      }
+    },
+    {
+      "Element": {
+        "value": "Kitchen Fittings"
+      },
+      "SubElement": {
+        "value": "Plumbing"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "500"
+      }
+    },
+    {
+      "Element": {
+        "value": "Skirting "
+      },
+      "SubElement": {
+        "value": "Hardwood"
+      },
+      "RepairType": {
+        "value": "redecorate"
+      },
+      "Qty": {
+        "value": "4"
+      },
+      "UnitCost": {
+        "value": "35"
+      }
+    },
+    {
+      "Element": {
+        "value": "Skirting "
+      },
+      "SubElement": {
+        "value": "MDF"
+      },
+      "RepairType": {
+        "value": "redecorate"
+      },
+      "Qty": {
+        "value": "20"
+      },
+      "UnitCost": {
+        "value": "120"
+      }
+    },
+    {
+      "Element": {
+        "value": "Skirting "
+      },
+      "SubElement": {
+        "value": "Softwood"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "10"
+      },
+      "UnitCost": {
+        "value": "45"
+      }
+    },
+    {
+      "Element": {
+        "value": "Skirting "
+      },
+      "SubElement": {
+        "value": "Tile"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "15"
+      },
+      "UnitCost": {
+        "value": "75"
+      }
+    },
+    {
+      "Element": {
+        "value": "Skirting "
+      },
+      "SubElement": {
+        "value": "Plastic"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "12"
+      },
+      "UnitCost": {
+        "value": "59"
+      }
+    },
+    {
+      "Element": {
+        "value": "Staircase"
+      },
+      "SubElement": {
+        "value": "Carpet"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "25"
+      },
+      "UnitCost": {
+        "value": "100"
+      }
+    },
+    {
+      "Element": {
+        "value": "Staircase"
+      },
+      "SubElement": {
+        "value": "Floor Paint"
+      },
+      "RepairType": {
+        "value": "repair"
+      },
+      "Qty": {
+        "value": "40"
+      },
+      "UnitCost": {
+        "value": "10"
+      }
+    },
+    {
+      "Element": {
+        "value": "Staircase"
+      },
+      "SubElement": {
+        "value": "Steel"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "100"
+      }
+    },
+    {
+      "Element": {
+        "value": "Staircase"
+      },
+      "SubElement": {
+        "value": "Vinyl Tiles"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "10"
+      },
+      "UnitCost": {
+        "value": "10"
+      }
+    },
+    {
+      "Element": {
+        "value": "Staircase"
+      },
+      "SubElement": {
+        "value": "Reinforced Concrete"
+      },
+      "RepairType": {
+        "value": "replace"
+      },
+      "Qty": {
+        "value": "1"
+      },
+      "UnitCost": {
+        "value": "1000"
+      }
+    }
+  ]
+
+}
