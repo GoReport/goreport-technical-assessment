@@ -6,9 +6,9 @@ For this assessment you will need to produce a styled single webpage using **`PH
 
 ## Setup
 
-The prefared method to get set up for this assessment is to clone the `repo` into your working directory for serving **`.php`** files. and create a `git branch` to start your work however you can also request a `.zip` of the source files needed to complete this assessment.
+The prefared method to get set up for this assessment is to clone the `repo` into your working directory for serving **`.php`** files. and create a `git branch` to start your work however you can also download a `.zip` of the source files needed to complete this assessment.
 
-_If you have requested a `.zip` then once this `.zip` has been extracted you will find 5 files, **`data.json,`** **`index.php`**,  **`functions.php`**, **`main.css`** and **`logo.png`**.png_
+_If you have downloaded the `.zip` then once this `.zip` has been extracted you will find 5 files, **`data.json,`** **`index.php`**,  **`functions.php`**, **`main.css`** and **`logo.png`**.png_
 
 The **`index.php`** will have a basic HTML structure already set up.
 
@@ -65,7 +65,7 @@ The preferred method to submit this assessment is:
 1. Create an **`index.html`** file and then view the source from the webpage and copy this into this **`.html`** file and save this to the working directory with the rest of the assessment files.
 2. Create a `pull request` on `GitHub`.
 
-_If you requested a `zip` file then to submit this assessment please take the following steps:_
+_If you downloaded the `zip` file then to submit this assessment please take the following steps:_
 
 1. Create an **`index.html`** file and then view the source from the webpage and copy this into this **`.html`** file.
 
