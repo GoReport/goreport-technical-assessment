@@ -73,4 +73,4 @@ _If you downloaded the `zip` file then to submit this assessment please take the
 
 3. Name this **`.zip`** file with your name and date, for example **`john_smith_01_01_19.zip`**.
 
-4. Please email this **`.zip`** to [carl@goreport.com](carl@goreport.com) with the subject **`Technical Test Submission`** and your name.
+4. Please email this **`.zip`** to [dev@goreport.com](dev@goreport.com) with the subject **`Technical Test Submission`** and your name.
