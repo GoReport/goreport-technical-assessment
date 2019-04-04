@@ -4,6 +4,8 @@
 
 For this assessment you will need to produce a styled single web page using **`PHP`**, **`HTML`** and **`CSS`** built according to the **`Criteria`** section of this document.
 
+In the final web page there should not be any content that has been hard coded as all the values should come from the provided data and be read and displayed using **`PHP`**
+
 ## Setup
 
 The preferred method to get set up for this assessment is to clone the `repo` into your working directory for serving **`.php`** files. and create a `git branch` to start your work however you can also download a `.zip` of the source files needed to complete this assessment.
