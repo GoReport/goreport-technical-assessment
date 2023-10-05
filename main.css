@@ -1,0 +1,11 @@
+body {
+  counter-reset: heading;
+}
+
+h1::before {
+  content: counter(heading) ".0";
+  counter-increment: heading;
+  width: fit-content;
+  padding-right: 0.5cm;
+}
+
