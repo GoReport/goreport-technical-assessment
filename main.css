@@ -2,10 +2,26 @@ body {
   counter-reset: heading;
 }
 
+div.toc-page a::after { }
+
 h1::before {
-  content: counter(heading) ".0";
   counter-increment: heading;
-  width: fit-content;
-  padding-right: 0.5cm;
 }
+
+ @page {
+   @top-left {
+     content: element(header-left);
+   }
+   @top-right {
+     content: element(header-right);
+   }
+    @bottom-left {
+      content: element(footer-left);
+    }
+    @bottom-right { }
+  }
+
+div.header-left { position: running(header-left); }
+div.header-right { position: running(header-right); }
+div.footer-left { position: running(footer-left); }
 
