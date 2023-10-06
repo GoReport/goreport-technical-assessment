@@ -26,7 +26,7 @@ It is possible to open the html file in a browser and style it without PrinceXML
 
 ## Assistance
 
-If you have any issues with getting set up for the test you can ask any questions via email to tech-test@goreport.com.
+If you have any issues with getting set up for the test you can ask any questions via email to dev@goreport.com.
 
 ## Submission
 
@@ -35,4 +35,4 @@ The preferred method to submit this assessment is:
 
 2. Name this **`.zip`** file with your name and date, for example **`john_smith_01_01_19.zip`**.
 
-3. Please email this **`.zip`** to [tech-test@goreport.com](tech-test@goreport.com) with the subject **`Technical Test Submission`** and your name.
+3. Please email this **`.zip`** to [dev@goreport.com](dev@goreport.com) with the subject **`Technical Test Submission`** and your name.
