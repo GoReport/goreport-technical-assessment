@@ -4,7 +4,7 @@ In GoReport every report that one of our customers uses is built on a template w
 
 Our publishing system uses PHP (Laravel), Less to create styled HTML outputs which are then fed into PrinceXML and output as a completed PDF. Your job in GoReport would be to create the PHP and Less pages to the customers specification.
 
-This technical challenge provides an introduction to PrinceXML by providing you with an HTML and css which must be amended to produce the desired output which has been detailed in this PDF. The aim is for this task to take no longer than 1-2 hrs. If after 2 hrs you have not completed the task please submit your completed work along with explanation of what other tasks you did not have time to complete.
+This technical challenge provides an introduction to PrinceXML by providing you with an HTML and css which must be amended to produce the desired output which has been detailed in [this PDF](https://github.com/GoReport/goreport-technical-assessment/blob/5f7b5492e6144fad8b2b4cb537f25beb85614603/Building%20Survey.pdf). The aim is for this task to take no longer than 1-2 hrs. If after 2 hrs you have not completed the task please submit your completed work along with explanation of what other tasks you did not have time to complete.
 
 ## Scenario
 
