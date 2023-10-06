@@ -1,18 +1,25 @@
-# GoReport Technical Assessment - PrinceXML Output
+# GoReport Technical Assessment
+## PrinceXML Output
 
 In GoReport every report that one of our customers uses is built on a template which details what information they wish to capture. For each template they can specify the styling of the report when it is published. Things like colour schemes, logos and photo layout can be configured but also data manipulation and aggregation.
 
-Our publishing system uses PHP (Laravel), Less to create styled HTML outputs which are then fed into PrinceXML and output as a completed PDF. Your job in GoReport would be to create the PHP and Less pages to the customers specification.
+Our publishing system uses PHP (Laravel) and Less to create styled HTML outputs which are then fed into PrinceXML and output as a completed PDF. Your job in GoReport would be to create the PHP and Less pages to the customers specification.
 
-This technical challenge provides an introduction to PrinceXML by providing you with an HTML and css which must be amended to produce the desired output which has been detailed in [this PDF](https://github.com/GoReport/goreport-technical-assessment/blob/5f7b5492e6144fad8b2b4cb537f25beb85614603/Building%20Survey.pdf). The aim is for this task to take no longer than 1-2 hrs. If after 2 hrs you have not completed the task please submit your completed work along with explanation of what other tasks you did not have time to complete.
+This technical challenge provides an introduction to PrinceXML by providing you with HTML and CSS which must be amended to produce the desired output which has been detailed in [this PDF](https://github.com/GoReport/goreport-technical-assessment/blob/5f7b5492e6144fad8b2b4cb537f25beb85614603/Building%20Survey.pdf). The aim is for this task to take no longer than 1-2 hrs. If after 2 hrs you have not completed the task please submit your completed work along with explanation of what other tasks you did not have time to complete.
 
 ## Scenario
 
-Using the PrinceXML test system, please produce a PDF which as closely as possible matches the provided output. This repo includes an HTML and CSS file which can be uploaded to the PrinceXML site and used to generate a PDF.
+Using the PrinceXML test system (link below), please produce a PDF which as closely as possible matches the provided output. This repo includes an [HTML](https://github.com/GoReport/goreport-technical-assessment/blob/c7e7523755c6527e94edf739a4ebad56a38cc953/index.html) and [CSS](https://github.com/GoReport/goreport-technical-assessment/blob/c7e7523755c6527e94edf739a4ebad56a38cc953/main.css) file which can be uploaded to the PrinceXML site and used to generate a PDF.
 
 ### PrinceXML
 
 The PrinceXML site can be found [here](https://www.princexml.com/) the documentation [here](https://www.princexml.com/doc/intro-userguide/) and the test system [here](https://www.princexml.com/try/). Sadly the PrinceXML test system cannot detect that a file which has previously been uploaded has changed so you will either need to upload with different file names each time you make a change or refresh the page between tests.
+
+It is possible to open the html file in a browser and style it without PrinceXML but some styling rules will only work when used by PrinceXML, a browser will ignore them. An example this is including forced [page breaks](https://www.princexml.com/doc/paged/#page-breaks).
+## Assistance
+
+
+If you have any issues with getting set up for the test you can ask any questions via email to tech-test@goreport.com.
 
 
 
