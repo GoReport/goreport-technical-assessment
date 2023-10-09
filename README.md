@@ -11,7 +11,17 @@ This technical challenge provides an introduction to PrinceXML by providing you 
 
 Using the PrinceXML test system (link below), please produce a PDF which as closely as possible matches the provided output. This repo includes an [HTML](https://github.com/GoReport/goreport-technical-assessment/blob/c7e7523755c6527e94edf739a4ebad56a38cc953/index.html) and [CSS](https://github.com/GoReport/goreport-technical-assessment/blob/c7e7523755c6527e94edf739a4ebad56a38cc953/main.css) file which can be uploaded to the PrinceXML site and used to generate a PDF.
 
-Special attention should be given to
+### Colours
+
+- Body Text = #000000
+- Headings = #2e74b5
+- Headers and Footers = #808080
+
+### Fonts
+
+- You do not need to match the specific fonts used in the sample document, any Sans Serif font is fine.
+
+### Special attention should be given to
 - Heading numbering
 - Table of Content Linking
 - Photo layout
@@ -20,14 +30,14 @@ Special attention should be given to
 
 ## PrinceXML
 
-The PrinceXML site can be found [here](https://www.princexml.com/) the documentation [here](https://www.princexml.com/doc/intro-userguide/) and the test system [here](https://www.princexml.com/try/). Sadly the PrinceXML test system cannot detect that a file which has previously been uploaded has changed so you will either need to upload with different file names each time you make a change or refresh the page between tests.
+The PrinceXML site can be found [here](https://www.princexml.com/) the documentation [here](https://www.princexml.com/doc/intro-userguide/) and the test system [here](https://www.princexml.com/try/). Sadly the PrinceXML test system cannot detect that a file which has previously been uploaded has changed so you will need to upload with different file names each time you make a change, refresh the page between tests or copy and paste from your file into the text area.
 
 It is possible to open the html file in a browser and style it without PrinceXML but some styling rules will only work when used by PrinceXML, a browser will ignore them. An example this is including forced [page breaks](https://www.princexml.com/doc/paged/#page-breaks).
 
 ## Assistance
 
-If you have any issues with getting set up for the test you can ask any questions via email to dev@goreport.com.
 
+If you have any issues with getting set up for the test you can ask any questions via email to dev@goreport.com. We will also allow all applicants the opportunity to ask **one** question about any area of the test they are struggling with, this question can also be directed to dev@goreport.com.
 ## Submission
 
 The preferred method to submit this assessment is:
