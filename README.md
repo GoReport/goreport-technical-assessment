@@ -11,6 +11,8 @@ This technical challenge is an introduction to PrinceXML by providing you with H
 
 Using the PrinceXML test system (link below), please produce a PDF which as closely as possible matches the provided output. This repo includes an [HTML](https://github.com/GoReport/goreport-technical-assessment/blob/c7e7523755c6527e94edf739a4ebad56a38cc953/index.html) and [CSS](https://github.com/GoReport/goreport-technical-assessment/blob/c7e7523755c6527e94edf739a4ebad56a38cc953/main.css) file which can be uploaded to the PrinceXML site and used to generate a PDF.
 
+Sadly the test system is a little frustrating to use however it avoids the necessity to perform any installations in your local development machine. When it comes to actual development in GoReport we have a develoment environment that simplifies the workflow considerably.
+
 ### Colours
 
 - Body Text = #000000
